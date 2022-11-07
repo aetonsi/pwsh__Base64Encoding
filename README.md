@@ -1,5 +1,5 @@
 # pwsh__Base64Encoding
-Powershell module to base64 encode and decode strings.
+Powershell tool to base64 encode and decode strings.
 
 # Usage
 ```powershell
